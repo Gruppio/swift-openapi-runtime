@@ -21,7 +21,7 @@ var swiftSettings: [SwiftSetting] = []
 swiftSettings.append(
     // https://github.com/apple/swift-evolution/blob/main/proposals/0335-existential-any.md
     // Require `any` for existential types.
-    .enableUpcomingFeature("ExistentialAny")
+    // .enableUpcomingFeature("ExistentialAny")
 )
 #endif
 
